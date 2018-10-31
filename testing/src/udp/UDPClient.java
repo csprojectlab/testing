@@ -22,5 +22,6 @@ public class UDPClient {
 		socket.receive(receivePacket);
 		message = receivePacket.getData().toString();
 		System.out.println("Client receiving message from the server: " + message);
+		//  HElow this is just for the testing purpose.
 	}
 }
