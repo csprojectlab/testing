@@ -45,6 +45,7 @@ public class UDPServer extends Thread {
 	public static void main(String[] args) throws Exception {
 		Thread server = new UDPServer();
 		server.start();
+		// Now working with the server.
 	}
 
 }
