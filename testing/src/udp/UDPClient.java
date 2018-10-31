@@ -23,5 +23,6 @@ public class UDPClient {
 		message = receivePacket.getData().toString();
 		System.out.println("Client receiving message from the server: " + message);
 		//  HElow this is just for the testing purpose.
+		// These changes are from some another computer.
 	}
 }
