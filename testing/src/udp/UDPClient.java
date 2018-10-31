@@ -25,6 +25,5 @@ public class UDPClient {
 		//  HElow this is just for the testing purpose.
 		// These changes are from some another computer.
 		// Again  aaa
-		// Check the pull request casse.
 	}
 }
